@@ -1,0 +1,9 @@
+target
+*db/
+_*/
+*.log
+*.sublime*
+*~
+*.pyc
+Dockerfile
+.vscode/settings.json
